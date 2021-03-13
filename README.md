@@ -1,4 +1,10 @@
-### Hi there 👋
+# Full stack Developer 
+
+ In love building stuff from scratch and touch a bit everything! 
+ 
+ Specialized in Mobile development in Flutter, Android (Java/Kotlin) and iOS (Swift/ObjC).
+
+![](https://github-readme-stats.vercel.app/api?username=jaumard&&show_icons=true&theme=dark)
 
 <!--
 **jaumard/jaumard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
